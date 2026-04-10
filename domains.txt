@@ -67,5 +67,3 @@ tvmodules-vidaa.vidaahub.com
 uiboot.netflix.com
 upgrade-plc-tv-af.vidaahub.com
 vidaa-base-auth-af.vidaahub.com
-www.google.com
-www.youtube.com
