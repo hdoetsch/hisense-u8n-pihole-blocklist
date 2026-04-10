@@ -27,7 +27,6 @@ a.root-servers.net
 abtest-tv.vidaahub.com
 acr.unruly.co
 africa.pool.ntp.org
-api-global.netflix.com
 avpk-a3kw1yevmsbbvk-0.api.amazonvideo.com
 avpk-a3kw1yevmsbbvk-0.eu.api.amazonvideo.com
 cdn-0.nflximg.com
@@ -53,7 +52,6 @@ nrdp-cell4.prod.ftl.netflix.com
 nrdp.nccp.netflix.com
 nrdp.prod.cloud.netflix.com
 nrdp51-appboot.netflix.com
-nrdp80-appboot.netflix.com
 partner.vidaahub.com
 pay-vidaa.vidaahub.com
 policy-jrnl-af.vidaahub.com
