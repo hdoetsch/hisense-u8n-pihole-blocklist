@@ -29,8 +29,6 @@ acr.unruly.co
 africa.pool.ntp.org
 avpk-a3kw1yevmsbbvk-0.api.amazonvideo.com
 avpk-a3kw1yevmsbbvk-0.eu.api.amazonvideo.com
-cdn-0.nflximg.com
-customerevents.netflix.com
 ddc70ef48047d6c9dda0648d4373dfdfeeb48b22b8c4485d61f5c5ce13a5128.us-east-1.prod.service.minerva.devices.a2z.com
 device-ecom.vidaahub.com
 domain.vidaahub.com
@@ -41,17 +39,12 @@ geo-bas-af.vidaahub.com
 hisense-0ba453d1.prod.partner.netflix.net
 hisense-app.dstv.com
 home-ui-af.vidaahub.com
-ichnaea.netflix.com
 iot-voice-af.vidaahub.com
 k.root-servers.net
 layout-ui-af.vidaahub.com
 m.root-servers.net
 mediaservices.cdn-apple.com
 normandy.tombstone.experimenter.prod.webservices.mozgcp.net
-nrdp-cell4.prod.ftl.netflix.com
-nrdp.nccp.netflix.com
-nrdp.prod.cloud.netflix.com
-nrdp51-appboot.netflix.com
 partner.vidaahub.com
 pay-vidaa.vidaahub.com
 policy-jrnl-af.vidaahub.com
@@ -61,6 +54,5 @@ rsc-ads.vidaahub.com
 ter-jrnl-af.vidaahub.com
 time-bas-af.vidaahub.com
 tvmodules-vidaa.vidaahub.com
-uiboot.netflix.com
 upgrade-plc-tv-af.vidaahub.com
 vidaa-base-auth-af.vidaahub.com
