@@ -58,7 +58,6 @@ policy-jrnl-af.vidaahub.com
 pool.ntp.org
 recommend-ui-af.vidaahub.com
 rsc-ads.vidaahub.com
-secure.netflix.com
 ter-jrnl-af.vidaahub.com
 time-bas-af.vidaahub.com
 tvmodules-vidaa.vidaahub.com
